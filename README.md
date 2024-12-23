@@ -1,7 +1,7 @@
 ## Hello there 👋
 This is my github! welcome!
 
-My name is Dylan A Davis, and I am a senior studing computer science, and business at the University of Kansas. I have a few public repositories feel free to check em out.
+My name is Dylan A Davis, and I am a senior studing computer science, and business at the University of Kansas. I have a few public repositories feel free to check em out!
 
 
 
