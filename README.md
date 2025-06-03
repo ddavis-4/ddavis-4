@@ -1,8 +1,27 @@
-## Hello There 👋
-This is my github! welcome!
+# 👋 Hello There!
 
-My name is Dylan A Davis, and I am a senior studing computer science, and business at the University of Kansas. I have a few public repositories feel free to check em out!
+Welcome to my GitHub! I'm **Dylan A. Davis** — a recent graduate from the **University of Kansas** with a degree in **Computer Science** and **Business**, with a certificate in **Cybersecurity**.
 
+I love problem solving, and I am very passionate about building software that makes life easlier, whether it’s for my personal projects, class projects, or real-world applications.
+
+Feel free to explore some of my public repositories below. Contributions, feedback, or questions are always welcome!
+
+---
+
+## 🚀 Current Interests
+- Systems Programming 🧠
+- Full Stack Web Development 🌐
+- Databases & Data Engineering 📊
+- Cybersecurity 🔐
+
+---
+
+## 📫 Get in Touch
+- [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/dylan-davis-848a09287/))
+- [Email](mailto:davisdylanpro@gmail.com)
+- [Portfolio (if you have one)]([https://your-site.com](https://ddavis-4.github.io/PersonalSite/index.html)) (work and progress)
+
+---
 
 
 <!--
