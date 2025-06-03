@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm **Dylan A. Davis** — a recent graduate from the **Un
 
 I love problem solving, and I am very passionate about building software that makes life easlier, whether it’s for my personal projects, class projects, or real-world applications.
 
-Feel free to explore some of my public repositories below. Contributions, feedback, or questions are always welcome!
+Thanks for visiting my GitHub! Feel free to poke around my projects, give feedback, or just say hi.
 
 ---
 
