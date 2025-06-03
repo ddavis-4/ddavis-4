@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm **Dylan A. Davis** — a recent graduate from the **University of Kansas** with a degree in **Computer Science** and **Business**, with a certificate in **Cybersecurity**.
 
-I love problem solving, and I am very passionate about building software that makes life easlier, whether it’s for my personal projects, class projects, or real-world applications.
+I love problem solving, and I am very passionate about building software that makes life easier, whether it’s for my personal projects, class projects, or real-world applications.
 
 Thanks for visiting my GitHub! Feel free to poke around my projects, give feedback, or just say hi.
 
