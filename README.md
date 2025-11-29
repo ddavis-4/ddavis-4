@@ -19,7 +19,6 @@ Thanks for visiting my GitHub! Feel free to poke around my projects, give feedba
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dylan-davis-848a09287/)
 - [Email](mailto:davisdylanpro@gmail.com)
-- [Portfolio](https://ddavis-4.github.io/PersonalSite/index.html) *(work in progress)*
 
 ---
 
