@@ -7,7 +7,7 @@ Welcome to my GitHub I like to code. BS CS KU 25'
 ## 📫 Hit Me Up
 - [LinkedIn](https://www.linkedin.com/in/dylan-davis-848a09287/)
 - [Email](mailto:davisdylanpro@gmail.com)
-- [Cite](https:https://ddavis-4.github.io/PersonalSite/)
+- [Cite](https://ddavis-4.github.io/PersonalSite/)
 
 ---
 <img width="245" height="150" alt="image" src="https://github.com/user-attachments/assets/e9dbf985-7293-4d43-acd1-2099be4ee7d8" />
