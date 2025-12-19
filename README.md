@@ -1,24 +1,14 @@
 # 👋 Hello There!
+<img width="232" height="100" alt="image" src="https://github.com/user-attachments/assets/8231d286-6d1c-4b0c-8a34-25f304df3a8b" />
 
-Welcome to my GitHub! I'm **Dylan A. Davis** — a recent graduate from the **University of Kansas** with a degree in **Computer Science** and **Business**, with a certificate in **Cybersecurity**.
 
-I love problem solving, and I am very passionate about building software that makes life easier, whether it’s for my personal projects, class projects, or real-world applications.
+Welcome to my GitHub I like to code. BS CS KU 25'
 
-Thanks for visiting my GitHub! Feel free to poke around my projects, give feedback, or just say hi.
 
----
-
-## 🚀 Current Interests
-- Systems Programming 🧠
-- Full Stack Web Development 🌐
-- Databases & Data Engineering 📊
-- Cybersecurity 🔐
-
----
-
-## 📫 Get in Touch
+## 📫 Hit Me Up
 - [LinkedIn](https://www.linkedin.com/in/dylan-davis-848a09287/)
 - [Email](mailto:davisdylanpro@gmail.com)
+- [Cite](https:https://ddavis-4.github.io/PersonalSite/)
 
 ---
 
