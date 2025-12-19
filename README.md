@@ -1,5 +1,4 @@
 # 👋 Hello There!
-<img width="232" height="100" alt="image" src="https://github.com/user-attachments/assets/8231d286-6d1c-4b0c-8a34-25f304df3a8b" />
 
 
 Welcome to my GitHub I like to code. BS CS KU 25'
@@ -11,6 +10,7 @@ Welcome to my GitHub I like to code. BS CS KU 25'
 - [Cite](https:https://ddavis-4.github.io/PersonalSite/)
 
 ---
+<img width="245" height="150" alt="image" src="https://github.com/user-attachments/assets/e9dbf985-7293-4d43-acd1-2099be4ee7d8" />
 
 
 <!--
